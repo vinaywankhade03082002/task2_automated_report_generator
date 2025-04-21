@@ -152,3 +152,4 @@ If you encounter any issues while running the script, here are some common probl
 The Student Report Generator is a simple yet powerful tool for automating the creation of academic reports. By reading structured data from a CSV file and producing a formatted PDF, it streamlines the process of data analysis and presentation. This project demonstrates how Python, combined with libraries like `fpdf`, can be used to build practical, real-world automation solutions. It’s easily customizable for different data formats and use cases, making it a versatile addition to any educator's or developer's toolkit.
 
 # Output
+![Image](https://github.com/vinaywankhade03082002/task2_automated_report_generator/blob/main/Automated%20Report/student_report.png)
